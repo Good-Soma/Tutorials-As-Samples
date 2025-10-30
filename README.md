@@ -1,4 +1,4 @@
-# Technical Writing Portfolio
+# Technical Writing blog( samples)
 
 Welcome! This repo contains easy-to-follow:  
 
